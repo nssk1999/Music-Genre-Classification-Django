@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'indianmusic'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a39885cbc41a4e1caf9b0f264ad45b5a }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_7d25cdb7ec2c49fabb8b9ebdd06512df }}
