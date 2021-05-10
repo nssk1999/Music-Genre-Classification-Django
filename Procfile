@@ -1,1 +1,1 @@
-web: gunicorn MusicClassification.wsgi
+web:gunicorn MusicClassification.wsgi
